@@ -1,0 +1,30 @@
+.box {
+    background-color: blue;
+}
+
+
+h1 {
+    color: red;
+    background-color: aquamarine;
+}
+
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: green;
+}
+
+footer {
+    color: indigo;
+}
+
+.firstcard {
+    color: blue;
+}
+.secondcard {
+    color: crimson;
+}
